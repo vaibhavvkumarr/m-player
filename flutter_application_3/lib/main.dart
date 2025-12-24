@@ -46,6 +46,156 @@ class SongListPage extends StatelessWidget {
       'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
       'cover': 'assets/images/music-2.jpg',
     },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-3.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-4.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-5.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-6.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-7.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-8.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-9.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-10.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-11.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-12.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-13.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-14.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-15.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-16.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-17.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-18.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-19.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-20.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-21.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-22.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-23.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-24.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-25.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-26.jpg',
+    },
+    {
+      'title': 'Astral Travel',
+      'artist': 'Mr Informative',
+      'url': 'https://yourdomain.com/audio/music-2.mp3?token=SECURE',
+      'cover': 'assets/images/music-27.jpg',
+    },
   ];
 
   @override
@@ -195,20 +345,19 @@ class _PlayerPageState extends State<PlayerPage> {
           const SizedBox(height: 20),
           Text(song['title']!, style: const TextStyle(fontSize: 22)),
           Text(song['artist']!, style: const TextStyle(color: Colors.grey)),
-
           if (progress > 0 && progress < 1)
             Padding(
               padding: const EdgeInsets.all(12),
               child: LinearProgressIndicator(value: progress),
             ),
-
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              IconButton(icon: const Icon(Icons.skip_previous), onPressed: _prev),
               IconButton(
-                icon: Icon(
-                    _player.playing ? Icons.pause : Icons.play_arrow, size: 36),
+                  icon: const Icon(Icons.skip_previous), onPressed: _prev),
+              IconButton(
+                icon: Icon(_player.playing ? Icons.pause : Icons.play_arrow,
+                    size: 36),
                 onPressed: () =>
                     _player.playing ? _player.pause() : _player.play(),
               ),
